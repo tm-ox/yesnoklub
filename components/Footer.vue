@@ -3,7 +3,7 @@
     <a
       href="https://tm.oxenfree.net"
       target="_blank"
-      class="flex w-6 p-0 rounded-full ml-auto"
+      class="flex w-6 p-0 rounded-full ml-auto pt-16"
     >
       <Tm class="animate-pulse-slow" />
     </a>

@@ -46,10 +46,10 @@
         @apply pointer-events-none text-base md:text-lg font-bold mb-2;
     }
     h5 {
-        @apply text-sm font-bold tracking-wider mb-2;
+        @apply text-xs sm:text-sm font-bold tracking-wider mb-2;
     }
     h5 a {
-        @apply pointer-events-none text-sm font-bold tracking-wider mb-2;
+        @apply pointer-events-none text-xs sm:text-sm font-bold tracking-wider mb-2;
     }
     p {
         @apply text-tertiary dark:text-secondary font-light tracking-wide normal-case mb-2;
