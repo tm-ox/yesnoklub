@@ -1,8 +1,10 @@
 <template>
   <section>
-    <FadeUp class="flex mx-auto">
+    <!-- <FadeUp> -->
+    <div class="flex mx-auto">
       <h1>Sent, Thanks</h1>
       <NuxtLink to="/" class="nav-item">Home</NuxtLink>
-    </FadeUp>
+    </div>
+    <!-- </FadeUp> -->
   </section>
 </template>
