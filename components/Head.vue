@@ -1,8 +1,11 @@
 <template>
   <Head>
-    <Title>YNK</Title>
+    <Title>Yes No Klub</Title>
     <Link rel="icon" type="image/png" href="images/assets/favicon.png" />
-    <Meta name="Yes No Klub" content="Experimental etc." />
+    <Meta
+      name="Yes No Klub"
+      content="Experimental etc. event organiser out of Yogyakarta, Indonesia."
+    />
     <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
     <Script
       defer
