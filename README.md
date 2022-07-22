@@ -40,3 +40,9 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+## Git
+
+git add .
+git commit -m "Initial Commit"
+git push -u origin main
