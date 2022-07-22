@@ -1,0 +1,24 @@
+---
+title: YNK#07.2
+date: "2010-09-25"
+time: "20.00"
+venue: Jogja National Museum
+venueURL: https://jogjanationalmuseum.com/
+with: Belajar Membunuh, Racun Kota, Steak Daging Kacang Hijau & Rod Cooper (AUS)
+info: Rodfest
+flyer: /images/uploads/YNK07_2.jpg
+documentation:
+  - /images/uploads/YNK07_2_01.jpg
+  - /images/uploads/YNK07_2_02.jpg
+  - /images/uploads/YNK07_2_03.jpg
+  - /images/uploads/YNK07_2_04.jpg
+  - /images/uploads/YNK07_2_05.jpg
+  #   - /images/uploads/YNK07_2_06.jpg
+  - /images/uploads/YNK07_2_07.jpg
+  - /images/uploads/YNK07_2_08.jpg
+  - /images/uploads/YNK07_2_09.jpg
+  - /images/uploads/YNK07_2_10.jpg
+  - /images/uploads/YNK07_2_11.jpg
+---
+
+#

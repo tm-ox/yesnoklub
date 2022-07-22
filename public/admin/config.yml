@@ -1,0 +1,48 @@
+backend:
+  name: github
+  repo: TimothyOD/ynkyk
+
+media_folder: '_site/images/uploads'
+public_folder: '/images/uploads'
+
+display_url: https://www.yesnoklub.net
+logo_url: https://ynkyk.netlify.app/images/assets/YNK_Logo.png
+
+collections:
+  - name: 'events'
+    label: 'Events'
+    folder: 'events'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'date', default: '' }
+      - { label: 'Time', name: 'time', widget: 'string' }
+      - { label: 'Venue', name: 'venue', widget: 'string' }
+      - {
+          label: 'Venue URL',
+          name: 'venueURL',
+          widget: 'string',
+          required: false,
+        }
+      - {
+          label: 'With (Performers/Presenters)',
+          name: 'with',
+          widget: 'string',
+        }
+      - {
+          label: 'Additional Info',
+          name: 'info',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Flyer', name: 'flyer', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - {
+          label: 'Documentation',
+          name: 'documentation',
+          widget: 'list',
+          summary: '{{fields.image}}',
+          field: { label: Image, name: image, widget: image },
+          required: false,
+        }

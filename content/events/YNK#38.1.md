@@ -1,0 +1,28 @@
+---
+title: YNK#38.1
+date: "2019-07-25"
+time: "16.00"
+venue: IVAA
+venueURL: https://ivaa-online.org/
+with: Jessica Ekomane & Nadah El Shazly
+info: Introductary presentation and discussion for the Nusasonic Residency Program hosted by Yes No Klub
+flyer: /images/uploads/YNK38_Intro.jpg
+documentation:
+  - /images/uploads/YNK38_1_01.jpg
+  - /images/uploads/YNK38_1_02.jpg
+  - /images/uploads/YNK38_1_03.jpg
+  - /images/uploads/YNK38_1_04.jpg
+  #   - /images/uploads/YNK38_1_05.jpg
+  - /images/uploads/YNK38_1_06.jpg
+#   - /images/uploads/YNK38_1_07.jpg
+---
+
+Nusasonic artists-in-residence, Berlin-based Jessica Ekomane and Cairo’s Nadah el Shazly, will share their works and practices and discuss the topics and interests that they want to explore during the residency.
+
+During their time in Yogyakarta, Jessica strives to deepen her engagement with the music and art scenes of Indonesia, as well as to conduct a research about the vocabulary of local music traditions, while Nadah writes new music based on field recordings done in Indonesia. Intrigued by the independent movement and ethics of art collectives in Yogyakarta, she also plans to exchange with local artists to pursue her art collective movement in Cairo.
+
+The residency program in Yogyakarta is hosted by Nusasonic-partner Yes No Klub from July to September 2019. A concert and workshop will also accompany the residency.
+
+Nusasonic is a multi-year project that plunges into a broad spectrum of experimental sound and music cultures in Southeast Asia, enabling dialogue within the region, with Europe, and beyond. Adopting a multi-perspective approach, the project is collaboratively created by Yes No Klub (Yogyakarta), WSK Festival of the Recently Possible (Manila), Playfreely/BlackKaji (Singapore), and CTM Festival for Adventurous Music & Art (Berlin).
+
+Nusasonic is an initiative of the Goethe-Institut in Southeast Asia.

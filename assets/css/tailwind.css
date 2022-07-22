@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200;300;400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme+Expanded:wght@200;300;400;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply mx-auto site-padding bg-secondary dark:bg-tertiary text-primary font-body uppercase tracking-widest;
+    }
+    header {
+        @apply w-screen fixed top-6 left-0 z-40;
+    }
+    footer {
+        @apply py-4;
+    }
+    nav {
+        @apply flex items-center w-full mx-auto site-padding;
+    }
+    section {
+        @apply flex flex-col min-h-screen justify-center;
+    }
+    h1 {
+        @apply font-display text-3xl md:text-4xl font-bold mb-2;
+    }
+    h1 a {
+        @apply font-display pointer-events-none text-3xl md:text-4xl font-bold mb-2;
+    }
+    h2 {
+        @apply font-display text-xl md:text-2xl font-extrabold mb-2;
+    }
+    h2 a {
+        @apply font-display pointer-events-none text-xl md:text-2xl font-bold mb-2;
+    }
+    h3 {
+        @apply font-display font-extrabold text-lg md:text-xl tracking-widest mb-2;
+    }
+    h3 a {
+        @apply pointer-events-none font-display font-extrabold text-lg md:text-xl tracking-widest mb-2;
+    }
+    h4 {
+        @apply text-base md:text-lg font-bold mb-2;
+    }
+    h4 a {
+        @apply pointer-events-none text-base md:text-lg font-bold mb-2;
+    }
+    h5 {
+        @apply text-sm font-bold tracking-wider mb-2;
+    }
+    h5 a {
+        @apply pointer-events-none text-sm font-bold tracking-wider mb-2;
+    }
+    p {
+        @apply text-tertiary dark:text-secondary font-light tracking-wide normal-case mb-2;
+    }
+    a {
+        @apply font-medium text-primary hover:text-hover tracking-wide;
+    }
+    ul {
+        @apply flex flex-col items-center justify-center gap-6 text-center md:flex-row ml-4;
+    }
+    textarea {
+        @apply h-24 bg-tertiary;
+    }
+}
+
+@layer components {
+    .site-padding {
+        @apply px-6 xl:px-48;
+    }
+    .full-page {
+        @apply justify-start xl:justify-center m-0 p-0 mt-32 xl:mt-0;
+    }
+    .nav-item {
+        @apply text-3xl md:text-base text-tertiary dark:text-hover hover:text-hover dark:hover:text-secondary trans;
+    }
+    .form {
+        @apply mb-4 pt-2 px-3 rounded border-0 ring-0 focus:border-0 focus:ring-0 bg-secondary text-sm text-tertiary placeholder:font-medium placeholder:uppercase tracking-wide;
+    }
+    .submitButton {
+        @apply self-center bg-primary font-medium text-secondary dark:text-tertiary hover:bg-hover border-primary p-1 px-4 rounded trans;
+    }
+    .trans {
+        @apply transition duration-300 ease-in-out;
+    }
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: #111518;
+  box-shadow: 0 0 0px 1000px #DEE2F7 inset;
+  transition: tertiary-color 5000s ease-in-out 0s;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+body::-webkit-scrollbar {
+    display: none;
+  }
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+  /* Page Transittion */
+.page-enter-from{
+    opacity: 0;
+    transform: translateY(0);
+  }
+  
+.page-enter-active,
+.page-leave-active {
+    transition: all 0.5s;
+
+  }
+.page-enter,
+.page-leave-to {
+    opacity: 0;
+  }
+
+  .tm {
+    stop-color: #F07605;
+}

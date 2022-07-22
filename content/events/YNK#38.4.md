@@ -1,0 +1,23 @@
+---
+title: YNK#38.4
+date: "2019-08-29"
+time: "19.00"
+venue: LifePatch
+venueURL: https://lifepatch.org/
+with: Jessica Ekomane & Nadah El Shazly
+info: Final Presentation for the Nusasonic Residency Program hosted by Yes No Klub
+flyer: /images/uploads/YNK38_Final.jpg
+documentation:
+  - /images/uploads/YNK38_4_01.jpg
+  # - /images/uploads/YNK38_4_02.jpg
+  - /images/uploads/YNK38_4_03.jpg
+  - /images/uploads/YNK38_4_04.jpg
+---
+
+To mark the end of their residency, Nusasonic artists in residence: Berlin-based Jessica Ekomane and Cairo’s Nadah El Shazly will share insights about their time in Yogyakarta and Denpasar. Their reflection in the dual sharing session will address diverse topics such as collective organisation, local and global structures, the individual encounters they made and their experience giving workshops and talks about women in music and arts.
+
+The residency program in Yogyakarta is hosted by Nusasonic-partner Yes No Klub from July to September 2019. A concert and workshop also accompanied the residency.
+
+Nusasonic is a multi-year project that plunges into a broad spectrum of experimental sound and music cultures in Southeast Asia, enabling dialogue within the region, with Europe, and beyond. Adopting a multi-perspective approach, the project is collaboratively created by Yes No Klub (Yogyakarta), WSK Festival of the Recently Possible (Manila), Playfreely/BlackKaji (Singapore), and CTM Festival for Adventurous Music & Art (Berlin).
+
+Nusasonic is an initiative of the Goethe-Institut in Southeast Asia.
