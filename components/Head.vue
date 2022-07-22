@@ -2,7 +2,7 @@
   <Head>
     <Title>YNK</Title>
     <Link rel="icon" type="image/png" href="images/assets/favicon.png" />
-    <Meta name="" content="" />
+    <Meta name="Yes No Klub" content="Experimental etc." />
     <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
     <!-- <Script
       defer

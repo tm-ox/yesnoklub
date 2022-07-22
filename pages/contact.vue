@@ -39,7 +39,11 @@
           />
           <input type="hidden" name="subject" value="Contact Form - YNK" />
           <input type="hidden" name="replyTo" value="@" />
-          <input type="hidden" name="redirectTo" value="/sent" />
+          <input
+            type="hidden"
+            name="redirectTo"
+            value="https://yesnoklub.netlify.app/sent"
+          />
         </div>
         <button class="submitButton" type="submit">SUBMIT</button>
       </div>
