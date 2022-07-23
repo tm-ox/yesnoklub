@@ -10,8 +10,6 @@ Nusasonic is a multi-year project that plunges into a broad spectrum of experime
 
 To date through the Nusasonic project YNK has organised a five day, multiple venue festival in Yogyakarta with participants from throughout Southeast Asia and Europe in 2018. In 2019 YNK also hosted a two month Nusasonic residency for <a href="https://nadahelshazly.bandcamp.com/" target="_blank">Nadah El Shazly</a> (Cairo) and <a href="https://www.jessicaekomane.com/" target="_blank">Jessica Ekomane</a> (Berlin). The residency involved workshops, discussions, performances and collaborative projects with local artists / musicians and communities.
 
-In February of 2020 YNK furthered its international network through a collaboration with HuruHara for the inclusion of four Indonesian artists in the <a href="https://www.asiatopa.com.au/" target="_blank">AsiaTopa Festival</a> in Melbourne, Australia.
-
-The event involved two weeks of performances, collaborations and exploration which has resulted in on-going working relations between Indonesian and Australian participants.
+In February of 2020 YNK furthered its international network through a collaboration with HuruHara for the inclusion of four Indonesian artists in the <a href="https://www.asiatopa.com.au/" target="_blank">AsiaTopa Festival</a> in Melbourne, Australia. The event involved two weeks of performances, collaborations and exploration which has resulted in on-going working relations between Indonesian and Australian participants.
 
 Since Covid YNK has shifted its focus to the curation of content for external events. In 2022 YNK is working with a number of events and festivals, most notably <a href="https://www.artjog.id/" target="_blank">ArtJog</a> and the facilitation of a stage at <a href="https://pestapora.com" target="_blank">Pestapora</a> with artists from throughout Indonesia, Malaysia, Thailand and the Philippines.

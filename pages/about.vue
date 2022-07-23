@@ -12,7 +12,7 @@
         <FadeUp>
           <ContentRenderer
             :value="page"
-            class="text-left columns-1 xl:columns-2 gap-0 xl:gap-6"
+            class="text-left columns-1 xl:columns-2 gap-0 xl:gap-5"
           />
         </FadeUp>
       </div>
