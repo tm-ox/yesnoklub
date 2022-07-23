@@ -42,7 +42,7 @@
             <input
               type="hidden"
               name="redirectTo"
-              value="https://yesnoklub.netlify.app/sent"
+              value="https://yesnoklub.net/sent"
             />
           </div>
           <button class="submitButton" type="submit">SUBMIT</button>
