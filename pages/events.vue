@@ -10,11 +10,7 @@
               <h5 class="text-left mb-1">{{ event.title }}</h5>
             </FadeDown>
             <FadeLeft>
-              <nuxt-img
-                :src="event.flyer"
-                alt="{{ event.title }}"
-                class="mb-1"
-              />
+              <img :src="event.flyer" alt="{{ event.title }}" class="mb-1" />
             </FadeLeft>
           </template>
           <template v-slot:details>
@@ -22,7 +18,7 @@
               class="flex flex-col sm:flex-row h-fit my-auto mt-24 items-start justify-center gap-6 pb-4"
             >
               <FadeUp class="w-full lg:w-full md:w-1/3 sm:w-1/3">
-                <nuxt-img
+                <img
                   :src="event.flyer"
                   alt="{{ event.title }}"
                   class="mb-1 w-full"
