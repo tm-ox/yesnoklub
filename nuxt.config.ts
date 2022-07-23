@@ -3,7 +3,7 @@ import { defineNuxtConfig } from "nuxt";
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   devServerHandlers: [],
-  modules: ["@nuxtjs/color-mode", "@nuxt/content"],
+  modules: ["@nuxtjs/color-mode", "@nuxt/content", "@nuxt/image-edge"],
   colorMode: {
     classSuffix: "",
   },
