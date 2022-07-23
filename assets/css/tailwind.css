@@ -46,10 +46,10 @@
         @apply pointer-events-none text-base md:text-lg font-bold mb-2;
     }
     h5 {
-        @apply text-xs sm:text-sm font-bold tracking-wider mb-2;
+        @apply text-sm font-bold tracking-wider mb-2;
     }
     h5 a {
-        @apply pointer-events-none text-xs sm:text-sm font-bold tracking-wider mb-2;
+        @apply pointer-events-none text-sm font-bold tracking-wider mb-2;
     }
     p {
         @apply text-tertiary dark:text-secondary font-light tracking-wide normal-case mb-2;
@@ -67,13 +67,16 @@
 
 @layer components {
     .site-padding {
-        @apply px-6 xl:px-48;
+        @apply px-6 lg:px-44;
     }
     .full-page {
-        @apply justify-start xl:justify-center m-0 p-0 mt-32 xl:mt-0;
+        @apply justify-start xl:justify-center m-0 p-0 mt-24 xl:mt-0;
     }
     .nav-item {
         @apply text-3xl md:text-base text-tertiary dark:text-hover hover:text-hover dark:hover:text-secondary trans;
+    }
+    .sosmed {
+        @apply w-7 h-7 md:w-5 md:h-5 fill-tertiary hover:fill-hover dark:fill-hover dark:hover:fill-secondary trans;
     }
     .form {
         @apply mb-4 pt-2 px-3 rounded border-0 ring-0 focus:border-0 focus:ring-0 bg-secondary text-sm text-tertiary placeholder:font-medium placeholder:uppercase tracking-wide;

@@ -1,7 +1,7 @@
 <template>
   <section>
-    <FadeLeft class="mx-auto">
-      <h2>Contact</h2>
+    <FadeLeft class="mx-auto mb-3">
+      <h2>Send us stuff</h2>
     </FadeLeft>
     <form
       action="https://api.staticforms.xyz/submit"

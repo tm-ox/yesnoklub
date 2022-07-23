@@ -3,7 +3,7 @@ title: YNK#42
 date: "2022-07-22"
 time: "19.30"
 venue: Artjog MMXXII - Jogja National Museum Jl. Gampingan No. 1 Yogyakarta
-venueURL:
+venueURL: https://www.artjog.id/
 with: KUNTARI (Bandung) & KADAPAT (Denpasar)
 info: ""
 flyer: /images/uploads/ynk-42.png

@@ -1,14 +1,16 @@
 <template>
   <header>
     <nav>
-      <NuxtLink to="/" class="flex items-center"
+      <NuxtLink to="/" class="flex items-center w-full"
         ><Ynk />
-        <h4 class="ml-6 mb-0">Yes No Klub</h4></NuxtLink
+        <h4 class="mx-auto md:ml-6 mb-0 text-2xl md:text-lg">
+          Yes No Klub
+        </h4></NuxtLink
       >
       <!-- Main Nav -->
       <Nav class="hidden md:flex ml-auto" />
       <!-- Mobile Nav Button -->
-      <div class="flex md:hidden ml-auto pr-1">
+      <div class="flex md:hidden ml-auto">
         <button title="Menu" @click="mobileMenuOpen = true">
           <svg
             class="w-12 h-8 p-0 m-0 md:hidden text-primary hover:text-hover"

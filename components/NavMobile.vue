@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="fixed inset-0 z-50 flex flex-col justify-center bg-secondary dark:bg-tertiary bg-opacity-90"
+    class="fixed inset-0 z-50 flex flex-col justify-center bg-secondary dark:bg-tertiary bg-opacity-90 dark:bg-opacity-90"
   >
     <!-- Close Button -->
     <button
@@ -10,7 +10,7 @@
     >
       <Close />
     </button>
-    <Nav class="mb-36" />
+    <Nav />
   </nav>
 </template>
 

@@ -12,20 +12,18 @@
     <li
       class="flex flex-col md:flex-row gap-0 md:gap-5 justify-center items-center"
     >
-      <div class="flex gap-5 sm:gap-3">
+      <div class="flex gap-5 md:gap-3 mt-6 md:mt-0">
         <a href="https://www.instagram.com/yes.no.klub/" target="_blank"
-          ><Ig class="w-7 h-7 sm:w-5 sm:h-5" />
+          ><Ig class="sosmed" />
         </a>
         <a href="https://www.facebook.com/yesnoklubyk" target="_blank"
-          ><Fb class="w-7 h-7 sm:w-5 sm:h-5" />
+          ><Fb class="sosmed" />
         </a>
         <a href="https://soundcloud.com/yesnoklub" target="_blank"
-          ><Sc
-            class="w-7 h-7 sm:w-5 sm:h-5 fill-tertiary hover:fill-hover dark:fill-hover dark:hover:fill-secondary trans"
-          />
+          ><Sc class="sosmed" />
         </a>
       </div>
-      <ColorMode />
+      <ColorMode class="mt-6 md:mt-0" />
     </li>
   </ul>
 </template>
