@@ -11,9 +11,9 @@
         @click="setActive"
         class="absolute right-0 top-6 hover:text-hover site-padding"
       >
-        <!-- <FadeDown> -->
-        <Close />
-        <!-- </FadeDown> -->
+        <FadeDown>
+          <Close />
+        </FadeDown>
       </button>
       <slot name="details" />
     </div>
