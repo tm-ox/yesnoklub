@@ -3,7 +3,7 @@
     <nav>
       <NuxtLink to="/" class="flex items-center w-full"
         ><Ynk />
-        <h4 class="mx-auto md:ml-6 mb-0 text-2xl md:text-lg">
+        <h4 class="mx-auto md:ml-5 mb-0 text-2xl md:text-lg">
           Yes No Klub
         </h4></NuxtLink
       >
