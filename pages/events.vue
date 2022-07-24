@@ -9,15 +9,19 @@
             <FadeDown>
               <h5 class="text-left mb-1">{{ event.title }}</h5>
             </FadeDown>
-            <FadeLeft>
-              <img :src="event.flyer" alt="{{ event.title }}" class="mb-1" />
+            <FadeLeft class="bg-primary">
+              <img
+                :src="event.flyer"
+                alt="{{ event.title }}"
+                class="mb-1 hover:opacity-60 trans"
+              />
             </FadeLeft>
           </template>
           <template v-slot:details>
             <div
               class="flex flex-col sm:flex-row h-fit my-auto mt-24 items-start justify-center gap-6 pb-4"
             >
-              <FadeUp class="w-full lg:w-full md:w-1/3 sm:w-1/3">
+              <FadeUp class="w-full md:w-full sm:w-1/3">
                 <img
                   :src="event.flyer"
                   alt="{{ event.title }}"

@@ -6,7 +6,7 @@ venue: Artjog MMXXII - Jogja National Museum Jl. Gampingan No. 1 Yogyakarta
 venueURL: https://www.artjog.id/
 with: KUNTARI (Bandung) & KADAPAT (Denpasar)
 info: ""
-flyer: /images/uploads/ynk-42.png
+flyer: /images/uploads/ynk-42.jpg
 ---
 
 Kuntari dan Kadapat adalah musisi garda muda yang mengawali prosesnya melalui pendalaman keahlian seni musik gamelan dan jazz hingga mengeksplorasinya pada fase-fase yang melampaui batasan-batasan. Tesla Manaf dalam Kuntari mendekonstruksi konsep musik jazz sambil mencoba memperkaya khasanah musik barongsay dan kuntulan.
