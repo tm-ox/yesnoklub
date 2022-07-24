@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: tm-ox/yesnoklub
+  name: git-gateway
+  branch: main
 
 media_folder: "_site/images/uploads"
 public_folder: "/images/uploads"
