@@ -1,6 +1,6 @@
 ---
 title: Title
-date: 2022-12-01
+date: 2022-11-01
 time: "20.00"
 venue: Venue
 venueURL: Venue URL
