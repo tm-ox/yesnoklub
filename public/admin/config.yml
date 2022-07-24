@@ -8,7 +8,7 @@ public_folder: /images/uploads
 display_url: https://yesnoklub.net
 logo_url: /images/assets/YNK_Logo.png
 
-collections:git
+collections:
   - name: "events"
     label: "Events"
     folder: "content/events"
