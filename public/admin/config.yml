@@ -3,12 +3,12 @@ backend:
   branch: main
 
 media_folder: public/images/uploads
-public_folder: /uploads
+public_folder: /images/uploads
 
 display_url: https://yesnoklub.net
 logo_url: /images/assets/YNK_Logo.png
 
-collections:
+collections:git
   - name: "events"
     label: "Events"
     folder: "content/events"
