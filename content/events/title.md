@@ -1,6 +1,7 @@
 ---
 title: Title
-date: Saturday, November 26, 2022 3:41 PM
+date: 2022-12-01
+time: "20.00"
 venue: Venue
 venueURL: Venue URL
 with: Performers
