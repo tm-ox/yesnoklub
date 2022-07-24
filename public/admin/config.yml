@@ -23,7 +23,7 @@ collections:
           default: "",
           date_format: "DD-M-YYYY",
           time_format: "HH:MM",
-          format: "LLL",
+          format: "L",
           picker_utc: false,
         }
       - { label: "Venue", name: "venue", widget: "string" }
