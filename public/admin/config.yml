@@ -17,7 +17,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "string" }
-      - { label: "Time", name: "time", widget: "string" }
+      - { label: "Time", name: "time", widget: "text" }
       - { label: "Venue", name: "venue", widget: "string" }
       - {
           label: "Venue URL",
