@@ -1,5 +1,5 @@
 ---
-title: YNK#Pestapora.1
+title: YNK#Pestapora.2
 date: "2022-09-24"
 time: ""
 venue: Gambir Expo Jakarta
