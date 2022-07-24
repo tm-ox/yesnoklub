@@ -32,7 +32,7 @@
                 <div>
                   <h5>{{ event.title }}</h5>
                   <h3>{{ event.with }}</h3>
-                  <h4 class="normal-case">{{ event.date }}</h4>
+                  <h4 class="normal-case">{{ event.date }} {{ event.time }}</h4>
                   <h5 class="mb-0">{{ event.venue }}</h5>
                   <a :href="event.venueURL" target="_blank">
                     <h5 class="normal-case">
