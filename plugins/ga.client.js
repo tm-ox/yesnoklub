@@ -6,7 +6,7 @@ export default ({ isDev, app }) => {
     Vue.use(
       VueGtag,
       {
-        config: { id: "G-T32SXCFCXDG-T32SXCFCXD" },
+        config: { id: "G-T32SXCFCXD" },
       },
       app.router
     );
