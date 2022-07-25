@@ -50,7 +50,7 @@
         @apply text-sm font-bold tracking-wider mb-2;
     }
     h5 a {
-        @apply pointer-events-none text-sm font-bold tracking-wider mb-2;
+        @apply text-sm font-bold tracking-wider mb-2;
     }
     p {
         @apply text-tertiary dark:text-secondary font-light tracking-wide normal-case mb-2;

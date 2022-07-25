@@ -13,7 +13,7 @@
       <div class="flex md:hidden ml-auto">
         <button title="Menu" @click="mobileMenuOpen = true">
           <svg
-            class="w-12 h-8 p-0 m-0 md:hidden text-primary hover:text-hover"
+            class="w-10 h-8 md:hidden text-primary hover:text-hover p-0 m-0"
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
@@ -23,7 +23,7 @@
               stroke-linecap="square"
               stroke-linejoin="round"
               stroke-width="6"
-              d="M4 6h23M4 18h23"
+              d="M0 6h23M0 18h23"
             />
           </svg>
         </button>

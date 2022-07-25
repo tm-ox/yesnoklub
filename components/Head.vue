@@ -15,13 +15,24 @@
       defer
       src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"
     ></Script>
-    <Link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
-    />
-
+    <!-- Global site tag (gtag.js) - Google Analytics -->
     <Script
-      src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-T32SXCFCXD"
     ></Script>
+    <Script>
+      window.dataLayer = window.dataLayer || []; function
+      gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config',
+      'G-T32SXCFCXD'); </Script
+    ><!-- Global site tag (gtag.js) - Google Analytics -->
+    <Script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-T32SXCFCXD"
+    ></Script>
+    <Script>
+      window.dataLayer = window.dataLayer || []; function
+      gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config',
+      'G-T32SXCFCXD');
+    </Script>
   </Head>
 </template>
