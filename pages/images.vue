@@ -9,11 +9,11 @@
             <FadeDown>
               <h5 class="text-left mb-1">{{ image.title }}</h5>
             </FadeDown>
-            <FadeLeft class="bg-primary w-full">
+            <FadeLeft class="bg-primary w-full rounded">
               <div
                 bgImage
                 v-bind:style="{ backgroundImage: 'url(' + image.image + ')' }"
-                class="bg-cover aspect-[4/3] mb-1 hover:opacity-60 trans"
+                class="bg-cover aspect-[4/3] mb-1 hover:opacity-60 rounded trans"
               />
             </FadeLeft>
           </template>
@@ -27,7 +27,11 @@
                 </div>
               </FadeLeft>
               <FadeLeft class="max-w-3/4">
-                <img :src="image.image" :alt="image.title" class="w-full" />
+                <img
+                  :src="image.image"
+                  :alt="image.title"
+                  class="w-full rounded"
+                />
               </FadeLeft>
               <FadeUp>
                 <div>

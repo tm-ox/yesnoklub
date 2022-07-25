@@ -9,11 +9,11 @@
             <FadeDown>
               <h5 class="text-left mb-1">{{ event.title }}</h5>
             </FadeDown>
-            <FadeLeft class="bg-primary">
+            <FadeLeft class="bg-primary rounded">
               <img
                 :src="event.flyer"
                 alt="{{ event.title }}"
-                class="mb-1 hover:opacity-60 trans"
+                class="mb-1 hover:opacity-60 rounded trans"
               />
             </FadeLeft>
           </template>
@@ -25,7 +25,7 @@
                 <img
                   :src="event.flyer"
                   :alt="event.title"
-                  class="mb-1 w-full"
+                  class="mb-1 w-full rounded"
                 />
               </FadeUp>
               <FadeLeft class="w-full">
