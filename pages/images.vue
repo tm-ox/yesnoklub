@@ -13,14 +13,8 @@
               <div
                 bgImage
                 v-bind:style="{ backgroundImage: 'url(' + image.image + ')' }"
-                class="bg-cover aspect-[4/3]"
-              >
-                <!-- <img
-                :src="image.image"
-                alt="{{ image.title }}"
-                class="mb-1 hover:opacity-60 trans"
-              /> -->
-              </div>
+                class="bg-cover aspect-[4/3] mb-1 hover:opacity-60 trans"
+              />
             </FadeLeft>
           </template>
           <template v-slot:details>
