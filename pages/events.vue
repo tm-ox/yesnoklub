@@ -4,7 +4,7 @@
       class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-6 gap-2"
     >
       <template :data="events" v-for="event of events" :key="event.slug">
-        <Event>
+        <Lightbox>
           <template v-slot:summary>
             <FadeDown>
               <h5 class="text-left mb-1">{{ event.title }}</h5>
@@ -45,7 +45,7 @@
               </FadeLeft>
             </div>
           </template>
-        </Event>
+        </Lightbox>
       </template>
     </div>
   </section>

@@ -7,6 +7,9 @@
       <NuxtLink to="events" class="nav-item">Events</NuxtLink>
     </li>
     <li>
+      <NuxtLink to="images" class="nav-item">Images</NuxtLink>
+    </li>
+    <li>
       <NuxtLink to="contact" class="nav-item">Contact</NuxtLink>
     </li>
     <li

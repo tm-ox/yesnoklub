@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button @click="setActive">
+    <button @click="setActive" class="w-full">
       <slot name="summary" />
     </button>
     <div
