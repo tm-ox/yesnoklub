@@ -15,24 +15,5 @@
       defer
       src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"
     ></Script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <Script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-T32SXCFCXD"
-    ></Script>
-    <Script>
-      window.dataLayer = window.dataLayer || []; function
-      gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config',
-      'G-T32SXCFCXD'); </Script
-    ><!-- Global site tag (gtag.js) - Google Analytics -->
-    <Script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-T32SXCFCXD"
-    ></Script>
-    <Script>
-      window.dataLayer = window.dataLayer || []; function
-      gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config',
-      'G-T32SXCFCXD');
-    </Script>
   </Head>
 </template>
