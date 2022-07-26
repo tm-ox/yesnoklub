@@ -18,5 +18,4 @@ export default defineNuxtConfig({
     },
   },
   css: ["~/assets/css/tailwind.css"],
-  plugins: [{ src: "~/plugins/ga.client.js", mode: "client" }],
 });
