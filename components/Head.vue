@@ -2,6 +2,7 @@
   <Head>
     <!-- Primary Meta Tags -->
     <Title>Yes No Klub - Experimental etc.</Title>
+    <Link rel="icon" type="image/png" href="images/assets/favicon.png" />
     <Meta
       name="title"
       content="Yes No Klub - Experimental etc. event organiser out of Yogyakarta, Indonesia."
