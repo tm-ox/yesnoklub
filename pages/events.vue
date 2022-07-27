@@ -52,6 +52,9 @@
 </template>
 
 <script setup>
+useHead({
+  title: "Events - Yes No Klub",
+});
 const { data: events } = await useAsyncData("events", () =>
   queryContent("/events").sort({ date: -1 }).find()
 );

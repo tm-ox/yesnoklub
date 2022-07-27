@@ -51,3 +51,9 @@
     </form>
   </section>
 </template>
+
+<script setup>
+useHead({
+  title: "Contact - Yes No Klub",
+});
+</script>

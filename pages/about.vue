@@ -40,6 +40,9 @@
 </template>
 
 <script setup>
+useHead({
+  title: "About - Yes No Klub",
+});
 const { data: pages } = await useAsyncData("pages", () =>
   queryContent("/pages/about").find()
 );

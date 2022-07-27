@@ -8,3 +8,9 @@
     <!-- </FadeUp> -->
   </section>
 </template>
+
+<script setup>
+useHead({
+  title: "Whoops - Yes No Klub",
+});
+</script>

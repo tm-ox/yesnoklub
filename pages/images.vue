@@ -54,6 +54,9 @@
 </template>
 
 <script setup>
+useHead({
+  title: "Images - Yes No Klub",
+});
 const { data: images } = await useAsyncData("images", () =>
   queryContent("/images").sort({ date: -1 }).find()
 );
