@@ -12,7 +12,7 @@
             <FadeLeft class="bg-primary w-full rounded">
               <div
                 bgImage
-                v-bind:style="{ backgroundImage: 'url(' + image.image + ')' }"
+                :style="{ backgroundImage: 'url(' + image.image + ')' }"
                 class="bg-cover aspect-[4/3] mb-1 hover:opacity-60 rounded trans"
               />
             </FadeLeft>
