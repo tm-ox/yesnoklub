@@ -14,7 +14,7 @@
 
     <!-- Open Graph / Facebook -->
     <Meta property="og:type" content="website" />
-    <Meta property="og:url" content="https://metatags.io/" />
+    <Meta property="og:url" content="https://yesnoklub.net/" />
     <Meta
       property="og:title"
       content="Yes No Klub - Experimental etc. event organiser out of Yogyakarta, Indonesia."
@@ -23,14 +23,11 @@
       property="og:description"
       content="Yes No Klub utilises multiple venues and formats to facilitate local & international artists with touring and collaborative projects throughout southeast asia and beyond."
     />
-    <Meta
-      property="og:image"
-      content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"
-    />
+    <Meta property="og:image" content="/images/assets/YNK_Logo_1200x628.png" />
 
     <!-- Twitter -->
     <Meta property="twitter:card" content="summary_large_image" />
-    <Meta property="twitter:url" content="https://metatags.io/" />
+    <Meta property="twitter:url" content="https://yesnoklub.net/" />
     <Meta
       property="twitter:title"
       content="Yes No Klub - Experimental etc. event organiser out of Yogyakarta, Indonesia."
@@ -41,7 +38,7 @@
     />
     <Meta
       property="twitter:image"
-      content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"
+      content="/images/assets/YNK_Logo_1200x628.png"
     />
 
     <Script
